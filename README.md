@@ -1,4 +1,5 @@
 # Portfólio ERP — Oracle APEX
+https://oracleapex.com/ords/r/portfolio_thales/erp-portfolio/
 
 Projeto de portfólio desenvolvido com **Oracle APEX, SQL e PL/SQL**, com o objetivo de demonstrar conhecimentos práticos em desenvolvimento de aplicações corporativas, modelagem de dados e implementação de regras de negócio.
 
