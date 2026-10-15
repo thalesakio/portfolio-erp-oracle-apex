@@ -37,4 +37,4 @@ O projeto possui finalidade de portfólio profissional e demonstração técnica
 ---
 
 **Desenvolvido por Thales Akio**  
-[LinkedIn](COLOQUE_AQUI_O_LINK_DO_SEU_LINKEDIN) · [GitHub](https://github.com/thalesakio)
+[LinkedIn](https://www.linkedin.com/in/thalesakiohayakawa) · [GitHub](https://github.com/thalesakio)
